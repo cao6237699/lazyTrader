@@ -3,7 +3,7 @@
 
 """
 把指定目录下的所有dbf文件转为csv文件，合并csv文件并处理筛选需要的结果
-by cao6237699
+author:cao6237699
 """
 import os
 from collections import OrderedDict
